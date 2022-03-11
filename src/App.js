@@ -47,7 +47,7 @@ import AuthAdmin from "./AuthAdmin";
 // import AdminLogin from './adminPages/AdminLogin'
 
 function App() {
-  const baseUrl = "http://54.237.197.99:5000/";
+  const baseUrl = "http://139.59.4.162:6900/";
 
   const [userData, setUserData] = useState([]);
   const [userBalance, setUserBalance] = useState("");
